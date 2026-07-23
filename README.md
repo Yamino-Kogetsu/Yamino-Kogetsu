@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img height="1024" src="https://gh-stats.odoru.xyz/top-langs?username=Yamino-Kogetsu&layout=pie&langs_count=6&hide_values=true&theme=tokyonight"/>
+<img width="100%" src="https://gh-stats.odoru.xyz/top-langs?username=Yamino-Kogetsu&layout=pie&langs_count=6&hide_values=true&theme=tokyonight"/>
 
 </div>
 
