@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://gh-activity-graph.odoru.xyz/graph?username=Yamino-Kogetsu&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true"/>
+<img width="98%" src="https://gh-activity-graph.odoru.xyz/graph?username=Yamino-Kogetsu&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true"/>
 
 </div>
 
