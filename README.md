@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img height="1024" src="https://gh-stats.odoru.xyz/api?username=Yamino-Kogetsu&custom_title=My%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight"/>
+<img width="100%" src="https://gh-stats.odoru.xyz/api?username=Yamino-Kogetsu&custom_title=My%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight"/>
 
 </div>
 
