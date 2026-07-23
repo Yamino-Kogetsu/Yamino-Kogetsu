@@ -104,9 +104,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+
 <a href="mailto:admin@odoru.xyz">
   <img src="https://img.shields.io/badge/Email-admin%40odoru.xyz-d946ef?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 <a href="https://orcid.org/0009-0004-0635-7235">
   <img src="https://img.shields.io/badge/ORCID-0009--0004--0635--7235-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"/>
