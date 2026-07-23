@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img width="90%" src="https://gh-streaks.odoru.xyz/?user=Yamino-Kogetsu&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"/>
+<img width="95%" src="https://gh-streaks.odoru.xyz/?user=Yamino-Kogetsu&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D"/>
 
 </div>
 
